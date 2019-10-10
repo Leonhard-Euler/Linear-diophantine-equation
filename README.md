@@ -31,7 +31,7 @@ output: 4
 ```
 
 ```
-x + y + z + k = 3
+x + y + z + k = 30
 
 input: [1,1,1,1], 30
 output: 5456
