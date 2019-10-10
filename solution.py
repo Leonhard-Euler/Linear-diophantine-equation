@@ -1,5 +1,6 @@
 import math
 
+
 def solve(a, n):
     # dp[i][j] 表示 使用了 前 j 项系数, sum 为 i 的 等式个数, 那么答案就是dp[n][len(a) - 1]
     dp = [[0] * len(a) for _ in range(n+1)]
@@ -20,4 +21,5 @@ if __name__ == "__main__":
     print(solve([1, 1], 1))  # 2
     print(solve([1, 1], 2))  # 3
     print(solve([1, 1], 3))  # 4
-    print(solve([1, 1, 1, 1], 30)) # 5456
+    print(solve([1, 1, 1, 1], 30))  # 5456
+    print(solve([1, 2, 3, 4], 30))  # 297
