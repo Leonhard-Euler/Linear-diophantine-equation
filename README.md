@@ -1,7 +1,7 @@
 # Linear-diophantine-equation
 A Linear-diophantine-equation problem solved.
 
-### Counting the number of positive solutions for a linear diophantine equation.
+### Counting the number of non-negative solutions for a linear diophantine equation.
 #### Example
 ```
 x + y = 0
@@ -40,6 +40,6 @@ output: 5456
 ```
 x + 2y + 3z + 4k = 30
 
-input: [1,1,1,1], 30
+input: [1,2,3,4], 30
 output: 297
 ```
