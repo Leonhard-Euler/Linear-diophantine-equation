@@ -2,6 +2,11 @@
 A Linear-diophantine-equation problem solved.
 
 ### Counting the number of non-negative solutions for a linear diophantine equation.
+#### SolutionA: (fast)
+dynamic programming
+
+#### SolutionB: (slow)
+math,recursion
 #### Example
 ```
 x + y = 0
@@ -49,10 +54,4 @@ output: 297
 input: [3,2,1,1], 40
 output: 2282
 ```
-
-#### SolutionA: 
-dynamic programming
-
-#### SolutionB:
-math,recursion
 
