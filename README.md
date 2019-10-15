@@ -44,9 +44,9 @@ input: [1,2,3,4], 30
 output: 297
 ```
 ```
-3x + 2y + z + k = 47
+3x + 2y + z + k = 40
 
-input: [3,2,1,1], 47
+input: [3,2,1,1], 40
 output: 2282
 ```
 
@@ -54,4 +54,4 @@ output: 2282
 dynamic programming
 
 # SolutionB:
-let 𝑃𝑁(𝑎1,𝑎2,...,𝑎𝑁,𝑛) be the number of solutions to the linear Diophatine equation
+
