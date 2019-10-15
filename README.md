@@ -49,3 +49,9 @@ output: 297
 input: [3,2,1,1], 47
 output: 2282
 ```
+
+#### SolutionA: 
+dynamic programming
+
+# SolutionB:
+let 𝑃𝑁(𝑎1,𝑎2,...,𝑎𝑁,𝑛) be the number of solutions to the linear Diophatine equation
