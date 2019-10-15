@@ -53,5 +53,6 @@ output: 2282
 #### SolutionA: 
 dynamic programming
 
-# SolutionB:
+#### SolutionB:
+math,recursion
 
